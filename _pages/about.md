@@ -45,5 +45,4 @@ Awards
 
 Recent Visit
 ----
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=fdnn746AScLv5PajKz41eW9_4SP34QoDSop2kj6Q568'></script>
-
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=fdnn746AScLv5PajKz41eW9_4SP34QoDSop2kj6Q568'></script>
