@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-====
 I'm an assistant researcher in Ant Research, working with [Dr. Mingzhe Zhang](https://mingzhe-zhang.github.io/). I got my Ph.D. degree from the Institute of Computing Technology, Chinese Academy of Sciences in 2024, co-advised by [Dr. Huimin Cui](https://cuihuimin.github.io/) and [Dr. Chenxi Wang](https://wangchenxi7.github.io/home/). I got my Bachelor degree from University of Chinese Academy of Sciences in 2018.
 
 Research Interests
