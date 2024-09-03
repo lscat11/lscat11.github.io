@@ -43,7 +43,7 @@ Awards
 
 
 
-
-
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=fdnn746AScLv5PajKz41eW9_4SP34QoDSop2kj6Q568&cl=ffffff&w=a"></script>
+Recent Visit
+----
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=n&d=fdnn746AScLv5PajKz41eW9_4SP34QoDSop2kj6Q568'></script>
 
