@@ -20,13 +20,18 @@ Publications
    **Lei Chen**, Shi Liu (co-first), Chenxi Wang, Haoran Ma, Yifan Qiao, Zhe Wang, Chenggang Wu, Youyou Lu, Xiaobing Feng, Huimin Cui, Shan Lu, and Harry Xu
 
    The USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2024
+   \[[paper](https://www.usenix.org/system/files/osdi24-chen-lei.pdf)\]\[[code](https://github.com/wangchenxi7/Atlas)\]
 
 + [Unified Holistic Memory Management Supporting Multiple Big Data Processing Frameworks over Hybrid Memories](https://dl.acm.org/doi/full/10.1145/3511211)
 
   **Lei Chen**, Jiacheng Zhao, Chenxi Wang, Ting Cao, John Zigman, Haris Volos, Onur Mutlu, Fang Lv, Xiaobing Feng, Harry Xu, Huimin Cui
 
   ACM Transactions on Computer Systems (TOCS), 2022
+  \[[paper](https://dl.acm.org/doi/pdf/10.1145/3511211)\]
+  
 
 
-
+Awards
+====
++ 2024 ChinaSys Best Spotlight Paper (5/54)
 
