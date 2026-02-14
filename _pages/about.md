@@ -13,6 +13,11 @@ Research Interests
 ====
 My research interest is to build hard-core system/runtime for new hardware and new application, such as non-volatile memory, resource-disaggregated datacenter, FHE accelerators and FHE applications.
 
+**System Support for FHE**
+
+Fully Homomorphic Encryption (FHE) is a promising solution for privacy-preserving computation. However, the huge data amplification in FHE introduces severe storage I/O bottlenecks, which are often overlooked.
+I analyze the impact of storage I/O on FHE performance [\[APPT'25\]](https://arxiv.org/abs/2511.04946), revealing that I/O can degrade the performance of FHE accelerators by orders of magnitude. I am exploring solutions from system perspectives to mitigate this bottleneck.
+
 **Runtime for Hybrid Memory**
 
 Non-volatile memory (NVM) was developed to meet the rapidly growing memory demands of data-intensive applications. Compared to DRAM, NVM provides significantly larger storage capacity, lower cost, and higher energy efficiency. However, NVM also exhibits longer access latencies and lower read/write bandwidths. Consequently, cloud infrastructures often adopt a hybrid approach by deploying NVM together with DRAM.
@@ -27,6 +32,32 @@ I build a hybrid data plane [\[OSDI'24\]](https://www.usenix.org/conference/osdi
 
 Publications
 ====
+
++ [From Threads to Tiles: T2T, a Compiler for CUDA-to-NPU Translation via 2D Vectorization](https://2026.cgo.org/details/cgo-2026-papers/32/From-Threads-to-Tiles-T2T-a-Compiler-for-CUDA-to-NPU-Translation-via-2D-Vectorizati) (**Distinguished Paper Award**)
+
+   Shuaijiang Li, Jiacheng Zhao, Ying Liu, Shuoming Zhang, **Lei Chen**, Yijin Li, Yangyu Zhang, lizhicheng , Runyu Zhou, Xiyu Shi, Chunwei Xia, Yuan Wen, Xiaobing Feng, Huimin Cui
+
+   International Symposium on Code Generation and Optimization (CGO), 2026
+
++ [An Efficient and Scalable Hardware Architecture for Number Theoretic Transform on FPGA with Design Automation](https://2026.hpca-conf.org/details/hpca-2026-main-conference/84/An-Efficient-and-Scalable-Hardware-Architecture-for-Number-Theoretic-Transform-on-FPG)
+
+   Yilan Zhu, Geng Yang, Xingyu Tian, Dilshan Kumarathunga, Liang Kong, Xianglong Deng, Shengyu Fan, Guang Fan, Guiming Shi, **Lei Chen**, Bo Zhang, Yisong Chang, Shoumeng Yan, Zhenman Fang, Mingzhe Zhang
+
+   IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2026
+
++ [The Future of Fully Homomorphic Encryption System: from a Storage I/O Perspective](https://arxiv.org/abs/2511.04946)
+
+   **Lei Chen**, Erci Xu, Yiming Sun, Shengyu Fan, Xianglong Deng, Guiming Shi, Guang Fan, Liang Kong, Yilan Zhu, Shoumeng Yan, Mingzhe Zhang
+
+   Advanced Parallel Processing Technology (APPT), 2025
+
++ [HAWK: Fully Homomorphic Encryption Accelerator with Fixed-Word Key Decomposition Switching](https://dl.acm.org/doi/full/10.1145/3725843.3756123)
+
+   Liang Kong, Shengyu Fan, Xianglong Deng, **Lei Chen**, Guang Fan, Guiming Shi, Yilan Zhu, Geng Yang, Shoumeng Yan, Mingzhe Zhang
+
+   IEEE/ACM International Symposium on Microarchitecture (MICRO), 2025
+
+
 + [A Tale of Two Paths: Toward a Hybrid Data Plane for Efficient Far-Memory Applications](https://www.usenix.org/conference/osdi24/presentation/chen-lei)
 
    **Lei Chen**, Shi Liu (co-first), Chenxi Wang, Haoran Ma, Yifan Qiao, Zhe Wang, Chenggang Wu, Youyou Lu, Xiaobing Feng, Huimin Cui, Shan Lu, and Harry Xu
@@ -45,7 +76,8 @@ Publications
 
 Awards
 ====
-+ 2024 ChinaSys Best Spotlight Paper (5/54)
++ 2026 CGO Distinguished Paper
++ 2024 ChinaSys Best Spotlight Paper
 
 
 
