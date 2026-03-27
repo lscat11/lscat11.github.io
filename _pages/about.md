@@ -33,6 +33,12 @@ I build a hybrid data plane [\[OSDI'24\]](https://www.usenix.org/conference/osdi
 Publications
 ====
 
++ [A GPU Memory Allocator with Device-Side Page Table Materialization and Deferred TLB Coherence](https://www.usenix.org/conference/osdi26) 
+
+   Yangyu Zhang, **Lei Chen**, Chunwei Xia, Shuaijiang Li, Shuoming Zhang, Zhicheng Li, Qianqi Sun, Jiawei Xiao, Ruiyuan Xu, Ao Chen, Guangli Li, Xiaobing Feng, Huimin Cui, Chenxi Wang, Jiacheng Zhao
+
+   The USENIX Symposium on Operating Systems Design and Implementation (OSDI), 2026
+
 + [From Threads to Tiles: T2T, a Compiler for CUDA-to-NPU Translation via 2D Vectorization](https://2026.cgo.org/details/cgo-2026-papers/32/From-Threads-to-Tiles-T2T-a-Compiler-for-CUDA-to-NPU-Translation-via-2D-Vectorizati) (**Distinguished Paper Award**)
 
    Shuaijiang Li, Jiacheng Zhao, Ying Liu, Shuoming Zhang, **Lei Chen**, Yijin Li, Yangyu Zhang, lizhicheng , Runyu Zhou, Xiyu Shi, Chunwei Xia, Yuan Wen, Xiaobing Feng, Huimin Cui
